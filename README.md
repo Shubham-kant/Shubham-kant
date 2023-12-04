@@ -1,6 +1,8 @@
 ### Hi there 👋
 
  🌱 I’m currently learning React
+     You can see my latest blog on Static variables in react - https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1 
+     ![](https://komarev.com/ghpvc/?username=Shubham-kant)
 
 <!--
 **Shubham-kant/Shubham-kant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
