@@ -2,8 +2,10 @@
 
  🌱 I’m currently learning React
  
-  You can see my latest blog on Static variables in react - https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1 
+  You can see my latest blog on "Static variables" in react - https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1 
  
+  Explore more about me at - https://shubham-kant.github.io/
+
  ![](https://komarev.com/ghpvc/?username=Shubham-kant&color=green)
 
 <!--
